@@ -1,8 +1,18 @@
-## Hi there 👋
+
 ![Banner](https://raw.githubusercontent.com/drewbi/drewbi/master/welcome_banner2.svg)
 
-𝙸 𝚕𝚘𝚟𝚎 
-𝙹𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝, 𝚃𝚢𝚙𝚎script and Python
+
+
+### Hi there 👋
+
+- 🔭 I’m currently working on **AI-powered automation tools and full-stack web apps**
+- 🌱 I’m currently learning **machine learning APIs, and scalable server architecture**
+- 👯 I’m looking to collaborate on **open-source projects related to AI, automation, or JavaScript frameworks**
+- 🤔 I’m looking for help with **deploying scalable systems and optimizing backend performance**
+- 💬 Ask me about **JavaScript, TypeScript, Node.js, or building MVPs**
+- 📫 How to reach me: **khatiburrehman.official@gmail.com** or **www.linkedin.com/in/khatib-ur-rehman**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I built my first website before learning HTML — using Notepad and guessing!**
 
 
 <!--
